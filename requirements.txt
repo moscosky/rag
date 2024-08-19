@@ -1,0 +1,7 @@
+langchain
+langchain_community
+streamlit
+streamlit_chat
+chromadb==0.3.29
+pypdf
+fastembed
